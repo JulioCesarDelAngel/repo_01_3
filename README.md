@@ -1,6 +1,8 @@
 # Mini proyecto de la unidad 01: Página de inicio
 
+
 En este mini proyecto, creará una página de inicio con HTML y CSS. Si bien será responsable de su propia página de inicio, trabajará en un grupo para intercambiar ideas y compartirlas.
+Se integra macbook
 
 ##Instrucciones
 
